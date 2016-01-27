@@ -1,0 +1,12 @@
+div{	
+	margin: 20px;
+	position: relative;
+	display: inline-block;
+}
+
+p{
+	position: absolute;
+	bottom: 0px;
+	left: 80px;
+	color: white;	
+}
